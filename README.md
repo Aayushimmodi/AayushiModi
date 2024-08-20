@@ -1,7 +1,7 @@
 # Hey,👋 What's up?
-#### My name is Aayushi Modi. I am a Backend Developer.
+### My name is Aayushi Modi. I am a Backend Developer.
 
-### About me 
+## About me 
 
 ### Hey there, I am Aayushi Modi👋
 🚀 Backend Developer | Express.js | Node.js | PHP | MongoDB | MySQL | HTML | CSS | JavaScript 
