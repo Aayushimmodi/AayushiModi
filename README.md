@@ -1,13 +1,13 @@
 # <h1 align="center">Hey👋, What's up?</h1>
 <h3 align="center">I'm an enthusiast, and an aspiring Backend developer 👨‍💻 🚀</h3>
+<br/>
 
-- 🌱 I’m currently learning **Rest APIs**
+- 🌱 I’m currently learning **Backend Technologies.**
 
 - 📫 How to reach me **modi.73aayushi@gmail.com**
 
-## About me 
-### Hey there, I am Aayushi Modi👋
-🚀 Backend Developer | Express.js | Node.js | PHP | MongoDB | MySQL | HTML | CSS | JavaScript 
+## Skills 
+🚀   Node.js  | Express.js | PHP | MongoDB | MySQL | HTML | CSS | JavaScript 
 
 ## Connect with me
 <p align="left">
