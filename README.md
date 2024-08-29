@@ -1,19 +1,23 @@
-# Hey,👋 What's up?
-### My name is Aayushi Modi. I am a Backend Developer.
+# <h1 align="center">Hey👋, What's up?</h1>
+<h3 align="center">I'm an enthusiast, and an aspiring Backend developer 👨‍💻 🚀</h3>
+
+- 🌱 I’m currently learning **Rest APIs**
+
+- 📫 How to reach me **modi.73aayushi@gmail.com**
 
 ## About me 
 ### Hey there, I am Aayushi Modi👋
 🚀 Backend Developer | Express.js | Node.js | PHP | MongoDB | MySQL | HTML | CSS | JavaScript 
 
+## Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/aayushi-modi-ba2928215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ayushimodi_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/aayushimodi0703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+</p>
 
 ## I code with
-
-
-![image](https://github.com/user-attachments/assets/6085988d-3d17-4b87-922b-a0f336368f4a)   ![image](https://github.com/user-attachments/assets/e07357e0-03b9-492d-9ced-847ee97e0851)  ![image](https://github.com/user-attachments/assets/213d3bde-f0e4-43b5-9c4c-b91884fa6931)![image](https://github.com/user-attachments/assets/57ce5aa0-f78d-4e49-9c05-f0cd33495da1)  
-
-![image](https://github.com/user-attachments/assets/d9f7058a-64f5-490d-abac-18ce5b0d68ea) 
-![image](https://github.com/user-attachments/assets/77815468-eff3-498c-a048-55f7312df8cb) ![image](https://github.com/user-attachments/assets/e4af53c4-a800-4699-89a9-47a65ac5ea01)
-
+<p align="left"><a href="https://nodejs.org/en"></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 
 
 
